@@ -3,7 +3,6 @@ public class PrintBasicInfo {
         String name= "Rafiqul Islam Suvo";
         String id= "202211062065";
         String email="rafiqulislamsuvobd@gmail.com";
-
         System.out.println("Name : "+name);
         System.out.println("ID : "+id);
         System.out.println("Email : "+email);
